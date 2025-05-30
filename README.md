@@ -1,8 +1,52 @@
-👋 Hi there! I'm Maneesh Rawat, a passionate full-stack web developer and CSE undergrad.
-🌐 I specialize in building robust web applications using the MERN stack (MongoDB, Express, React, Node.js).
-🧠 I enjoy solving Data Structures & Algorithms problems—200+ questions solved on LeetCode and counting!
-💻 My projects range from e-learning platforms and job portals to real-time chat apps and task managers.
-🚀 Always eager to learn new technologies, contribute to open source, and collaborate with like-minded devs.
+# 👋 Hi, I'm Maneesh Rawat!
 
-Let’s build something amazing together!
+I'm a passionate **Full-Stack Web Developer** and a **Computer Science Engineering** student who loves to build web apps that solve real-world problems.
 
+- 🔭 Currently working with the **MERN stack**
+- 💡 Exploring **Next.js**, **TypeScript**, and scalable architectures
+- 💻 Solved **200+ DSA problems** on platforms like LeetCode
+- 🚀 Built multiple full-stack projects: E-learning platforms, Job Portals, Chat Apps, and more
+- 🤝 Open to collaborations on meaningful projects
+- 🏀 Love playing basketball in my free time!
+
+---
+
+## 🚀 Tech Stack
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 E-learning Platform
+An online platform where users can register, purchase courses, study securely with OTP and CAPTCHA verification, and admins can manage content.
+> MERN | Razorpay | JWT | Nodemailer
+
+### 💼 Job Portal
+A platform where recruiters can post jobs and students can apply. Includes full auth flow and CRUD for jobs.
+> MERN | Redux | Tailwind | JWT
+
+### 🧭 Metro Route Planner
+A Java-based console app using DSA (Graphs & Dijkstra’s algorithm) to find the shortest path between metro stations.
+> Java | Graph Algorithms | DSA
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maneesh-rawat/)
+- 🌐 [Portfolio Website](#) *(add your link here)*
+- 📧 Email: your-email@example.com *(optional)*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
