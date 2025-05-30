@@ -16,6 +16,7 @@ I'm a passionate **Full-Stack Web Developer** and a **Computer Science Engineeri
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,23 +29,23 @@ I'm a passionate **Full-Stack Web Developer** and a **Computer Science Engineeri
 ## 🔥 Featured Projects
 
 ### 🧠 E-learning Platform
-An online platform where users can register, purchase courses, study securely with OTP and CAPTCHA verification, and admins can manage content.
+An online platform where users can register, purchase courses, study securely with OTP and CAPTCHA verification, and admins can manage content.  
 > MERN | Razorpay | JWT | Nodemailer
 
 ### 💼 Job Portal
-A platform where recruiters can post jobs and students can apply. Includes full auth flow and CRUD for jobs.
+A platform where recruiters can post jobs and students can apply. Includes full auth flow and CRUD for jobs.  
 > MERN | Redux | Tailwind | JWT
 
-### 🧭 Metro Route Planner
-A Java-based console app using DSA (Graphs & Dijkstra’s algorithm) to find the shortest path between metro stations.
-> Java | Graph Algorithms | DSA
+### 📝 Blog Website
+A fully responsive blog platform with modern UI where users can read articles and admins can manage content.  
+> MERN | React Router | Tailwind CSS | JWT
 
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maneesh-rawat/)
-- 🌐 [Portfolio Website](#) *(add your link here)*
+- 🌐 [Portfolio Website](https://portfolio-frontend-tan-one.vercel.app/)
 - 📧 Email: your-email@example.com *(optional)*
 
 ---
