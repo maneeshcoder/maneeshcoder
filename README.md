@@ -7,7 +7,6 @@ I'm a passionate **Full-Stack Web Developer** and a **Computer Science Engineeri
 - 💻 Solved **200+ DSA problems** on platforms like LeetCode
 - 🚀 Built multiple full-stack projects: E-learning platforms, Job Portals, Chat Apps, and more
 - 🤝 Open to collaborations on meaningful projects
-- 🏀 Love playing basketball in my free time!
 
 ---
 
@@ -46,7 +45,7 @@ A fully responsive blog platform with modern UI where users can read articles an
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maneesh-rawat/)
 - 🌐 [Portfolio Website](https://portfolio-frontend-tan-one.vercel.app/)
-- 📧 Email: your-email@example.com *(optional)*
+- 📧 Email: maneeshrawat143@gmail.com
 
 ---
 
