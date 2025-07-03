@@ -4,8 +4,8 @@ I'm a passionate **Full-Stack Web Developer** and a **Computer Science Engineeri
 
 - 🔭 Currently working with the **MERN stack**
 - 💡 Exploring **Next.js**, **TypeScript**, and scalable architectures
-- 💻 Solved **200+ DSA problems** on platforms like LeetCode
-- 🚀 Built multiple full-stack projects: E-learning platforms, Job Portals, Chat Apps, and more
+- 💻 Solved **400+ DSA problems** on platforms like LeetCode, gfg.
+- 🚀 Built multiple full-stack projects: E-learning platform, AI-based youtube notes generator , True Feedback and more
 - 🤝 Open to collaborations on meaningful projects
 
 ---
@@ -31,9 +31,9 @@ I'm a passionate **Full-Stack Web Developer** and a **Computer Science Engineeri
 An online platform where users can register, purchase courses, study securely with OTP and CAPTCHA verification, and admins can manage content.  
 > MERN | Razorpay | JWT | Nodemailer
 
-### 💼 Job Portal
-A platform where recruiters can post jobs and students can apply. Includes full auth flow and CRUD for jobs.  
-> MERN | Redux | Tailwind | JWT
+### 💼 Summify-AI based youtube Notes generator
+A platform where students can generate notes, questions and relevece content from youtube videos.  
+> Next js | Tailwind | Firebase | Gemini AI
 
 ### 📝 Blog Website
 A fully responsive blog platform with modern UI where users can read articles and admins can manage content.  
