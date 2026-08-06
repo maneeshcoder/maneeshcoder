@@ -27,16 +27,34 @@ I'm a passionate **Full-Stack Web Developer** and a **Computer Science Engineeri
 
 ## 🔥 Featured Projects
 
+### 💼 Summify – AI-based YouTube Notes Generator
+
+An AI-powered platform that transforms YouTube videos into structured notes, quiz questions, summaries, and relevant learning content to enhance student productivity.
+
+> Next.js | Tailwind CSS | Firebase | Gemini AI
+
+### 🎓 College Connect Portal
+
+A collaborative platform that enables students to connect, share resources, join communities, discover opportunities, and collaborate across colleges through a modern social networking experience.
+
+> Next.js | TypeScript | Supabase | Prisma | Tailwind CSS
+
+### 💬 True Feedback
+
+An anonymous feedback platform that allows users to receive honest feedback securely while protecting the identity of the sender through a clean and intuitive interface.
+
+> Next.js | TypeScript | MongoDB | NextAuth | Tailwind CSS
+
 ### 🧠 E-learning Platform
-An online platform where users can register, purchase courses, study securely with OTP and CAPTCHA verification, and admins can manage content.  
+
+An online learning platform where users can register, purchase courses, and access content securely using OTP verification, CAPTCHA protection, and integrated online payments.
+
 > MERN | Razorpay | JWT | Nodemailer
 
-### 💼 Summify-AI based youtube Notes generator
-A platform where students can generate notes, questions and relevece content from youtube videos.  
-> Next js | Tailwind | Firebase | Gemini AI
-
 ### 📝 Blog Website
-A fully responsive blog platform with modern UI where users can read articles and admins can manage content.  
+
+A fully responsive blogging platform where users can explore articles while administrators can create, edit, and manage content through a secure dashboard.
+
 > MERN | React Router | Tailwind CSS | JWT
 
 ---
