@@ -62,7 +62,7 @@ A fully responsive blogging platform where users can explore articles while admi
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maneesh-rawat/)
-- 🌐 [Portfolio Website](https://portfolio-frontend-tan-one.vercel.app/)
+- 🌐 [Portfolio Website](https://mane-folio-shine.vercel.app/)
 - 📧 Email: maneeshrawat143@gmail.com
 
 ---
